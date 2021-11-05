@@ -3,7 +3,7 @@
 
 ![adele_img][logo]
 
-[logo]: https://www.desophict.com/wp-content/uploads/2021/01/adele-goldberg-2.webp "adele_img"
+[logo]: https://github.com/chuchini/GenomicaFC_2022-1/blob/master/adele-goldberg-2.png?raw=true "adele_img"
 
 ---
 
